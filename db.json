@@ -10,7 +10,8 @@
       "developer": "Respawn Entertainment",
       "liked": false,
       "releaseDate": "11/15/2019",
-      "price": 59.99
+      "price": 59.99,
+      "description": "An action-adventure game set in the Star Wars universe. You play as Cal Kestis, a young Jedi Padawan who survived the events of Order 66. The game features exploration, combat, and puzzle-solving as Cal attempts to rebuild the Jedi Order while being hunted by the Empire."
     },
     {
       "id": 1,
@@ -22,7 +23,8 @@
       "developer": "FromSoftware",
       "liked": false,
       "releaseDate": "03/24/2015",
-      "price": 39.99
+      "price": 39.99,
+      "description": "A gothic action RPG developed by FromSoftware. You play as the Hunter in the city of Yharnam, which is plagued by nightmarish creatures. The game is known for its fast-paced combat, challenging difficulty, and atmospheric world inspired by gothic horror."
     },
     {
       "id": 2,
@@ -34,7 +36,8 @@
       "developer": "Larian Studios",
       "liked": false,
       "releaseDate": "10/06/2020",
-      "price": 49.99
+      "price": 49.99,
+      "description": "A role-playing game set in the Dungeons & Dragons universe, combining deep narrative choices with tactical combat. Players create a party of adventurers and explore the world of Faerûn, encountering monsters, magic, and intricate moral decisions."
     },
     {
       "id": 3,
@@ -46,7 +49,8 @@
       "developer": "Bethesda Game Studios",
       "liked": false,
       "releaseDate": "11/11/2011",
-      "price": 19.99
+      "price": 19.99,
+      "description": "An open-world RPG where you play as the Dragonborn, a hero prophesied to defeat an ancient dragon named Alduin. The game features vast exploration, quests, and combat, set in the fictional province of Skyrim within the Elder Scrolls universe."
     },
     {
       "id": 4,
@@ -58,7 +62,8 @@
       "developer": "FromSoftware",
       "liked": false,
       "releaseDate": "02/25/2022",
-      "price": 69.99
+      "price": 69.99,
+      "description": "An open-world action RPG developed by FromSoftware, set in a dark fantasy world. Players explore the Lands Between, uncovering its mysteries and fighting against formidable bosses. The game emphasizes challenging combat, exploration, and intricate lore."
     },
     {
       "id": 5,
@@ -70,7 +75,8 @@
       "developer": "CD Projekt Red",
       "liked": false,
       "releaseDate": "05/19/2015",
-      "price": 29.99
+      "price": 29.99,
+      "description":"An open-world RPG where you play as Geralt of Rivia, a monster hunter searching for his adopted daughter. The game features rich storytelling, engaging quests, and a detailed world filled with monsters, magic, and political intrigue."
     },
     {
       "id": 6,
@@ -82,7 +88,8 @@
       "developer": "CD Projekt Red",
       "liked": false,
       "releaseDate": "12/10/2020",
-      "price": 49.99
+      "price": 49.99,
+      "description":"A futuristic open-world RPG set in the neon-lit city of Night City. You play as V, a customizable mercenary in a dystopian world where technology and cybernetic enhancements are central to society. The game features narrative-driven gameplay, exploration, and combat."
     },
     {
       "id": 7,
@@ -94,7 +101,8 @@
       "developer": "DICE",
       "liked": false,
       "releaseDate": "11/17/2017",
-      "price": 19.99
+      "price": 19.99,
+      "description": "A third-person shooter set in the Star Wars universe, allowing players to engage in large-scale battles across iconic locations. The game features both single-player and multiplayer modes, with players fighting as heroes, soldiers, and vehicles."
     },
     {
       "id": 8,
@@ -106,7 +114,8 @@
       "developer": "EA Sports",
       "liked": false,
       "releaseDate": "09/29/2023",
-      "price": 59.99
+      "price": 59.99,
+      "description": "A sports simulation game focused on soccer (football). It features realistic gameplay, teams, and leagues, with new mechanics and player updates. FIFA 24 offers various game modes, including career mode, online multiplayer, and ultimate team."
     },
     {
       "id": 9,
@@ -118,7 +127,8 @@
       "developer": "EA Sports",
       "liked": false,
       "releaseDate": "09/30/2022",
-      "price": 49.99
+      "price": 49.99,
+      "description": "Similar to previous FIFA entries, FIFA 23 offers a realistic soccer experience with improved gameplay mechanics, player animations, and updated teams and leagues. It includes career mode, ultimate team, and other online features."
     },
     {
       "id": 10,
@@ -130,7 +140,8 @@
       "developer": "EA Sports",
       "liked": false,
       "releaseDate": "10/01/2021",
-      "price": 39.99
+      "price": 39.99,
+      "description": "An installment in the FIFA series that introduces features like HyperMotion technology for more realistic player animations and advanced gameplay. The game includes popular modes such as Ultimate Team, Career Mode, and Pro Clubs."
     },
     {
       "id": 11,
@@ -142,7 +153,8 @@
       "developer": "Respawn Entertainment",
       "liked": false,
       "releaseDate": "04/28/2023",
-      "price": 69.99
+      "price": 69.99,
+      "description": "The sequel to Jedi: Fallen Order, this game continues the story of Cal Kestis as he navigates new challenges in a galaxy still under Imperial rule. It builds upon the first game with new abilities, environments, and combat systems."
     },
     {
       "id": 12,
@@ -154,7 +166,8 @@
       "developer": "Capcom",
       "liked": false,
       "releaseDate": "01/25/2019",
-      "price": 39.99
+      "price": 39.99,
+      "description": "A complete remake of the 1998 classic survival horror game. Players control Leon S. Kennedy and Claire Redfield as they try to survive the zombie apocalypse in Raccoon City. The game features updated visuals, improved gameplay, and a reimagined story."
     },
     {
       "id": 13,
@@ -166,7 +179,8 @@
       "developer": "Capcom",
       "liked": false,
       "releaseDate": "03/24/2023",
-      "price": 49.99
+      "price": 49.99,
+      "description": "A remake of the 2005 action-horror game Resident Evil 4. Players control Leon Kennedy as he is sent to rescue the U.S. president's daughter from a cult in rural Spain. The remake updates visuals and gameplay while maintaining the core of the original."
     },
     {
       "id": 14,
@@ -178,7 +192,8 @@
       "developer": "Capcom",
       "liked": false,
       "releaseDate": "05/07/2021",
-      "price": 59.99
+      "price": 59.99,
+      "description": "The eighth entry in the Resident Evil series, this survival horror game follows Ethan Winters as he searches for his kidnapped daughter in a mysterious village full of grotesque creatures. The game features first-person gameplay, horror elements, and action-focused combat."
     },
     {
       "id": 15,
@@ -190,7 +205,8 @@
       "developer": "Remedy Entertainment",
       "liked": false,
       "releaseDate": "08/27/2019",
-      "price": 29.99
+      "price": 29.99,
+      "description": "A supernatural action-adventure game where players control Jesse Faden, a young woman searching for her missing brother in the mysterious Federal Bureau of Control. The game features telekinetic powers, a unique narrative, and an ever-shifting environment."
     },
     {
       "id": 16,
@@ -202,7 +218,8 @@
       "developer": "Blizzard Entertainment",
       "liked": false,
       "releaseDate": "05/06/2023",
-      "price": 69.99
+      "price": 69.99,
+      "description": "The latest installment in the *Diablo* series, an action RPG set in the dark, gothic world of Sanctuary. Players can choose from various classes to battle demonic forces and uncover the return of the prime evil, Lillith, in an open-world setting with multiplayer co-op."
     },
     {
       "id": 17,
@@ -214,7 +231,8 @@
       "developer": "FromSoftware",
       "liked": false,
       "releaseDate": "22/03/2019",
-      "price": 59.99
+      "price": 59.99,
+      "description": "An action-adventure game set in feudal Japan, where players control a shinobi named Sekiro as he seeks revenge on his captors. The game features precise combat, stealth elements, and a story driven by themes of honor and sacrifice."
     },
     {
       "id": 18,
@@ -226,7 +244,8 @@
       "developer": "Santa Monica Studio",
       "liked": false,
       "releaseDate": "04/20/2018",
-      "price": 49.99
+      "price": 49.99,
+      "description": "An action RPG that follows Kratos, the former Greek god, and his son, Atreus, as they journey through the world of Norse mythology. The game combines brutal combat with a strong narrative focused on fatherhood, loss, and destiny."
     },
     {
       "id": 19,
@@ -238,7 +257,8 @@
       "developer": "BioWare",
       "liked": false,
       "releaseDate": "11/18/2014",
-      "price": 49.99
+      "price": 49.99,
+      "description": "An RPG set in the world of Thedas, where players control the Inquisitor, a leader tasked with solving a crisis and leading a group of diverse allies. The game emphasizes player choice, tactical combat, and an expansive world filled with lore and political intrigue."
     }
   ]
 }
